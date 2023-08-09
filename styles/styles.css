@@ -1,0 +1,126 @@
+#img {
+    float: left;
+    width: 100px;
+    margin: 5px 15px;
+  }
+.header-bg{
+    background-color: white;
+    border: 1px solid;
+    box-shadow: 0 0 10px ;
+}
+.margin{
+    margin-top: 50px;
+}
+.center {
+    text-align: center;
+  }
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.box-png{
+    width: 960px;
+    height: 540px;
+    margin: 0 auto;
+}
+.menubar{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    padding: 1rem;
+}
+.margin{
+    margin-top: 50px;
+}
+.banner-img{
+    width: 100%;
+    height: 450px;
+}
+.banner-head{
+    width: 100%;
+    height: 450px;
+    background-color: #8CC0DE;
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-banner-text{
+    width: 1300px;
+    color: white;
+    position: absolute;
+    background-color: rgb(0, 170, 255);
+    border: 3px solid;
+    padding: 1rex auto;
+}
+
+.table-container{
+    width: 960px;
+    margin: 0 auto;
+}
+.boxbutton {
+    display: inline-block;
+    width: 15px;
+    height: 20px;
+    border: 3px solid black;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+  }
+.box-head {
+    display: inline-block;
+    width: 1000px;
+    height: 100px;
+    border: 3px solid black;
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ตัวเชื่อม*/
+
+/*ส่วนหัวด้านบนสุด เมนู*/
+.menubar .logo{
+    float: left;
+}
+/* .menubar .logo a{
+    text-decoration: none;
+    color: black;
+} */
+.menubar h1{
+    margin: 0 auto;
+    font-size: 24px;
+}
+.menubar ul.menu{
+    list-style: none;
+    float: right;
+}
+.menubar ul.menu li{
+    float: left;
+    margin-right: 20px;
+}
+.menubar ul.menu li a{
+    text-decoration: none;
+    color: black;
+}

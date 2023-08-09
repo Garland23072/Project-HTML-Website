@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+a{
+    text-decoration: none;
+}
+footer {
+    background: #4B4B4B;
+    color: #FFFFFF;
+    min-height: 80px;
+}
